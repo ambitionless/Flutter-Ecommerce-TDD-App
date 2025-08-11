@@ -1,3 +1,7 @@
+/// Project: Smart Shop – Flutter E-Commerce App
+n/// Author: Hemant Kumar
+n/// Created: 2025-08-11
+n/// Description: [Add file-specific description here]
 import 'package:flutter/material.dart';
 import 'package:flutter_easyloading/flutter_easyloading.dart';
 import 'package:oktoast/oktoast.dart';
